@@ -1,10 +1,9 @@
 # 👋 Olá, sou Victor Hugo
 
-**Estudante de Engenharia de Software** • Desenvolvedor Full-Stack • Apaixonado por resolver problemas reais com código
+**Estudante de Engenharia de Software** • Desenvolvedor Full-Stack • Resolvo problemas reais com código
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorhugoeng)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorHugoEng)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorhugoeng@email.com)
 
 ---
 
@@ -26,8 +25,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### Frontend
 
@@ -48,7 +45,7 @@
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Tests](https://img.shields.io/badge/Tests-node%3Atest-informational?style=flat-square&logo=node.js&logoColor=white)
 
 ---
 
@@ -91,7 +88,7 @@
 
 ```
 Monolito modular Node.js/Express 5
-├── Auth Module (JWT-like + RBAC)
+├── Auth Module (opaque 256-bit tokens + RBAC)
 ├── Estoque Module (CRUD + alertas)
 ├── Equipamentos Module (metrologia)
 ├── Compras Module (workflow + feedback)
@@ -143,8 +140,8 @@ Monolito modular Node.js/Express 5
 
 ## 🤝 Buscando Oportunidades
 
-> **Estágio / Júnior / Trainee** em Engenharia de Software  
-> Disponível para: **Remoto / Híbrido / Presencial (SP/Interior)**  
+> **Estágio / Júnior / Trainee** em Engenharia de Software
+> Disponível para: **Remoto (Brasil e exterior)** — Inglês C1, Espanhol B2
 > Início: **Imediato**
 
 ### O que levo para o time
@@ -160,7 +157,6 @@ Monolito modular Node.js/Express 5
 
 - 💼 **LinkedIn**: [linkedin.com/in/victorhugoeng](https://linkedin.com/in/victorhugoeng)
 - 🐙 **GitHub**: [github.com/VictorHugoEng](https://github.com/VictorHugoEng)
-- 📧 **Email**: victorhugoeng@email.com
 
 ---
 
