@@ -11,7 +11,7 @@ deployment, backups and updates. I care about software that stays up and doesn't
 **Available for remote roles and small freelance projects.** Based in Brazil (UTC-3),
 with 4h+ overlap with US and EU time zones. English C1 · Spanish B2.
 
-> ▶️ **Live demo:** [almoxarifado-inteligente.onrender.com](https://almoxarifado-inteligente.onrender.com)
+> ▶️ **Live demo:** [almoxarifadoproject.onrender.com](https://almoxarifadoproject.onrender.com)
 > — login `anderson` / `demo-almox-2026`.
 
 ---
