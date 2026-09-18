@@ -1,15 +1,18 @@
 # Victor Hugo
 
-**Software Engineering student · Backend / Full-stack (Node.js + SQLite)**
+**Backend / Full-stack Developer · Node.js + SQLite**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorhugoeng)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorHugoEng)
 
-Software engineering student based in Brazil (UTC-3). I design, build and **operate** a
-production inventory system end-to-end — database, API, frontend, deployment, backups and
-updates. I care about software that stays up and doesn't lose data.
+I design, build and **operate** production systems end-to-end — database, API, frontend,
+deployment, backups and updates. I care about software that stays up and doesn't lose data.
 
-Open to **remote internship / junior** roles. English C1 · Spanish B2.
+**Available for remote roles and small freelance projects.** Based in Brazil (UTC-3),
+with 4h+ overlap with US and EU time zones. English C1 · Spanish B2.
+
+> ▶️ **Live demo:** [almoxarifado-inteligente.onrender.com](https://almoxarifado-inteligente.onrender.com)
+> — login `anderson` / `demo-almox-2026`.
 
 ---
 
@@ -52,6 +55,15 @@ and still maintained by me.
 
 - PostgreSQL and relational data modeling.
 - Software design and testing practices.
+
+---
+
+## How I can help
+
+- **Backend & REST APIs** — Node.js/Express, authentication and role-based permissions.
+- **SQLite & data** — schema design, migrations, WAL/ACID setup, backup and restore.
+- **Reliability & deploy** — automated backups, Docker, Render/VPS deployment, CI.
+- **Fixes & automation** — scripts, integrations and bug fixes in existing Node apps.
 
 ---
 
