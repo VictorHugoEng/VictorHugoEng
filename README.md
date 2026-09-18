@@ -27,6 +27,8 @@ Open to **remote internship / junior** roles. English C1 · Spanish B2.
 Inventory management system in production use by a small industrial team. Built from scratch
 and still maintained by me.
 
+[![Almoxarifado Inteligente — dashboard](https://raw.githubusercontent.com/VictorHugoEng/AlmoxarifadoProject/main/docs/screenshots/dashboard.png)](https://github.com/VictorHugoEng/AlmoxarifadoProject)
+
 - **Modules:** stock control, equipment/calibration, purchase requests, private 1-to-1 chat.
 - **Roles:** admin, operator, purchasing, read-only.
 - **Persistence:** SQLite via the built-in `node:sqlite` module (WAL, ACID, auto-checkpoint).
